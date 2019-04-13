@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 
 Mike here, I like Node. js and Coffeescript (that's what I'm made of!). 
